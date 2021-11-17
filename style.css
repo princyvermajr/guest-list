@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color:khaki;
+}
+
+h1 {
+    font-family: 'Sigmar One', cursive;
+}
+
+input {
+    background-color: mediumaquamarine;
+}
+
+button {
+    background-color: orangered;
+    color: silver;
+}
